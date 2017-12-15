@@ -31,13 +31,14 @@
   font-family: 'weathericons';
   font-style: normal;
   font-weight: normal;
-  line-height: 1;
+  line-height: 2.5;
+  font-size: 80px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 .wi-fw {
   text-align: center;
-  width: 1.4em;
+  width: 2.1em;
 }
 .wi-rotate-90 {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
